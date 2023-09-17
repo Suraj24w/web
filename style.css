@@ -1,0 +1,10 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    top: 30%;
+    background:linear-gradient(to left,red,yellow);
+}
+h1,h2,h3{
+    color: rgb(81, 60, 33);
+}
